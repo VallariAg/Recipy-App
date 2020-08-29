@@ -1,0 +1,8 @@
+.foodstat{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* row-gap: 4%; */
+    font-weight: 500;
+    /* color: aqua; */
+    background-color:  hsla(0, 0%, 97%);
+}
