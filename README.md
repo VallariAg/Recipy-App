@@ -22,9 +22,9 @@ To run the server:
 cd server
 node src/index.js
 ```
-cd client
 To run the client:
 ```
+cd client
 npm start
 ```
 # Built With
